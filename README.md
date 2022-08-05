@@ -4,7 +4,7 @@
 * 🌱 Web development
 * 🔭 Working on **python** projects for cibersecurity
 
-😄 Any tips are welcome!
+😄 Any kind of tips are welcome!
 
 
 <!--
