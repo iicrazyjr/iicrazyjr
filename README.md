@@ -1,5 +1,7 @@
+![MasterHead](https://nftevening.com/wp-content/uploads/2022/05/neko100-2048x683.png.webp)
 <h1 align="center">Hi 👋, I'm iicrazyjr</h1>
 <h3 align="center">Ethical hacking lover</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/iicrazyjr" target="blank"><img src="https://img.shields.io/twitter/follow/iicrazyjr?logo=twitter&style=for-the-badge" alt="iicrazyjr" /></a> </p>
 
