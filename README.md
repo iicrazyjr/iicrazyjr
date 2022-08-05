@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi guys! 👋
+
+* ⚡I’m currently learning about **pentesting** techniques
+* 🌱 Web development
+* 🔭 Working on **python** projects for cibersecurity
+
+😄 Any tips are welcome!
+
 
 <!--
 **iicrazyjr/iicrazyjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
