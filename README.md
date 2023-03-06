@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/iicrazyjr" target="blank"><img src="https://img.shields.io/twitter/follow/iicrazyjr?logo=twitter&style=for-the-badge" alt="iicrazyjr" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Go**
-
-- 🤝 I’m looking for help with **Programming structure**
-
-- 💬 Ask me about **Pentesting**
+- 🌱 I’m currently learning **pentesting
 
 - 📫 How to reach me **raulvg01@protonmail.com**
-
-- ⚡ Fun fact **I enjoy playing basket (:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
