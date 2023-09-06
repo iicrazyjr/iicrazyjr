@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iicrazyjr" target="blank"><img src="https://img.shields.io/twitter/follow/iicrazyjr?logo=twitter&style=for-the-badge" alt="iicrazyjr" /></a> </p>
 
-- 🌱 I’m currently learning **pentesting
+- 🌱 I’m currently learning **C programming**
 
 - 📫 How to reach me **raulvg01@protonmail.com**
 
