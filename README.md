@@ -2,14 +2,12 @@
 <h1 align="center"><b>Hi , I'm iicrazyjr | Cyber Hunter 🕷️</b><img src="https://camo.githubusercontent.com/d279c98781b721fa24f63941312741842a1b8108f1ee92ef9799ae3e2791e6bc/68747470733a2f2f6e66746576656e696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f6e656b6f3130302d32303438783638332e706e672e77656270" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href=""><img src="https://camo.githubusercontent.com/d279c98781b721fa24f63941312741842a1b8108f1ee92ef9799ae3e2791e6bc/68747470733a2f2f6e66746576656e696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f6e656b6f3130302d32303438783638332e706e672e77656270"></a>
 </p>
-
 
 <br>
 
-	
-## <picture><img src = "https://camo.githubusercontent.com/d279c98781b721fa24f63941312741842a1b8108f1ee92ef9799ae3e2791e6bc/68747470733a2f2f6e66746576656e696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f6e656b6f3130302d32303438783638332e706e672e77656270" width = 50px></picture> **About me**
+**👹 About me**
 
 <picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width = 250px></picture>
 
