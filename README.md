@@ -8,7 +8,7 @@
 
 <h2>👹 About me!</h2>
 
-<picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width=360px></picture>
+<picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width=360px margin=20px></picture>
 
 - Playing CTF's at spare time
 - Currently learning **Binary Exploitation**
