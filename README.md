@@ -8,12 +8,10 @@
 
 <br>
 
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://camo.githubusercontent.com/d279c98781b721fa24f63941312741842a1b8108f1ee92ef9799ae3e2791e6bc/68747470733a2f2f6e66746576656e696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30352f6e656b6f3130302d32303438783638332e706e672e77656270" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width = 250px></picture>
 
 <br>
 
@@ -24,10 +22,6 @@
 
 <br><br>
 
-<img src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png"><br><br>
-
-## <img src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
