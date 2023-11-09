@@ -8,13 +8,12 @@
 
 <h2>**👹 About me!</h2>
 
-<picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width = 300px></picture>
+<picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width = 400px></picture>
 
 - Playing CTF's at spare time
 - Currently learning **Binary Exploitation**
 - Not a personal website (Yet) (:
 - I’m currently Pentester at **Hispasec Sistemas**
-<br>
 
 <p align="center">
 
@@ -26,15 +25,10 @@
     ![Java](https://img.shields.io/badge/Java-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-
-<br>   
-
 - **Offensive skills**:
 
     ![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
     ![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
     ![HackerOne](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)
     ![BugCroud](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)
-
-
 </p>
