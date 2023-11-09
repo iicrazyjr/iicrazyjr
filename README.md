@@ -6,7 +6,7 @@
 
 <br>
 
-<h2>**👹 About me!</h2>
+<h2>👹 About me!</h2>
 
 <picture> <img align="right" src="https://w.wallhaven.cc/full/o5/wallhaven-o5dq17.png" width = 400px></picture>
 
